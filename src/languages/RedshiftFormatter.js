@@ -363,6 +363,7 @@ const reservedNewlineWords = [
   'FULL OUTER JOIN',
   'CROSS JOIN',
   'NATURAL JOIN',
+  '#'
 ];
 
 export default class RedshiftFormatter extends Formatter {
