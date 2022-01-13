@@ -21,7 +21,7 @@ It does not support:
 - Stored procedures.
 - Changing of the delimiter type to something else than `;`.
 
-&rarr; [Try the demo.](https://zeroturnaround.github.io/sql-formatter/)
+&rarr; [Try the demo.](https://speakice.github.io/sql-formatter/)
 
 ## Install
 
